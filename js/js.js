@@ -38,7 +38,7 @@ window.onload = function(){
  		gestionarXml(this);
  	}
  };
- xhttp.open("GET", "https://rawgit.com/harmanbm/formulario/edit/master/xml/quiz.xml", true);
+ xhttp.open("GET", "https://github.com/monsterxdxd/formulario/blob/master/xml/quiz.xml", true);
  xhttp.send();
 }
 
