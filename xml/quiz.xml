@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-<!DOCTYPE questions SYSTEM "preguntas_esquema.dtd">
--->
-<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="preguntas.xsd"><questions>
- <question id="PR_01">
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?>
+
+<!-- !DOCTYPE questions SYSTEM "preguntas.dtd"!-->
+<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation='preguntas.xsd'>
+	<question id="PR_01">
 	<type>text</type>
 		<title>¿Qué es aquello que todo el mundo toma pero que nadie se lleva?</title>
 	<answer>sol</answer>
