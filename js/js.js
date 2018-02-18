@@ -44,7 +44,7 @@ window.onload = function(){
 			gestionarXml(this);
 		}
 	};
-	xhttp.open("GET", "https://rawgit.com/monsterxdxd/formulario/master/xml/quiz.xml", true);
+	xhttp.open("GET", "https://github.com/monsterxdxd/formulario/blob/master/xml/quiz.xml", true);
  	xhttp.send();
 
 	//Funcion para no tener que usar el control en las preguntas de multiple select
