@@ -34,7 +34,7 @@
  </question>
  
  <question id="quest005">
-	<type>multiple</type>
+	<type>select multiple</type>
 		<title> ¿Cuántos meses del año tienen 28 días?</title>
 			<option>Todos</option>
 			<option>Febrero</option> 
@@ -44,7 +44,7 @@
 	<answer>2</answer>
  </question>
  <question id="quest006">
-	<type>multiple</type>
+	<type>select multiple</type>
 		<title>¿Cuales de los siguientes son colores?</title>
 			<option>fresa</option>
 			<option>naranja</option> 
