@@ -30,7 +30,7 @@
 			<option>Coche</option>
 			<option>Casa</option> 
 			<option>Tu nombre</option>
-	<answer>2</answer> <!-- SelectedIndex = 0, 1 ó 2 , 2 vol dir la tercera opciói -->
+	<answer>3</answer> <!-- SelectedIndex = 0, 1 ó 2 , 2 vol dir la tercera opciói -->
  </question>
  
  <question id="quest005">
