@@ -12,7 +12,7 @@
 <question id="quest002">
 		<type>text</type>
 			<title>¿Qué es lo que todo el mundo hace al despertar?</title>
-				<answer>Abrir los ojos</answer>
+				<answer>abrir los ojos</answer>
 	</question>
 	
 <question id="quest003">
